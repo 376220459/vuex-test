@@ -81,6 +81,8 @@
             console.log('git测试')
             console.log('继续测试')
             console.log('继续测试')
+            console.log('我正在test分支上开发一个功能，此时突然让我去处理bugFix分支上的bug。')
+            console.log('test分支上继续给stash中存内容。')
         }
     }
 </script>
